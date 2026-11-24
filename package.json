@@ -1,0 +1,16 @@
+{
+  "name": "rn-dom-site",
+  "version": "1.0.0",
+  "description": "Сайт КП «РН-ДОМ» — новые готовые дома в Тюмени (статический сайт: HTML, CSS, JavaScript)",
+  "private": true,
+  "scripts": {
+    "dev": "serve . -l 3000",
+    "start": "serve . -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
