@@ -1,6 +1,0 @@
-meta:
-  environment: node
-  tool: npm
-
-run:
-  script: npm install && npm start
